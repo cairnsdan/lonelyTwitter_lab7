@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Dan\\Documents\\_School\\C301\\LabFeb13\\lonelyTwitter-f18lab7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dan\\Documents\\_School\\C301\\LabFeb13\\lonelyTwitter-f18lab7\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,6,3,5,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "107,198,59,159,239",
+                        "endColumns": "50,39,46,37,71",
+                        "endOffsets": "153,233,101,192,306"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,146,193,231",
+                        "endColumns": "50,39,46,37,71",
+                        "endOffsets": "101,141,188,226,298"
+                    }
+                }
+            ]
+        }
+    ]
+}

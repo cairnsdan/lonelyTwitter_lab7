@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Dan\Documents\_School\C301\LabFeb13\lonelyTwitter-f18lab7\app\app.iml" filepath="C:\Users\Dan\Documents\_School\C301\LabFeb13\lonelyTwitter-f18lab7\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lonelyTwitter-f18lab7.iml" filepath="$PROJECT_DIR$/lonelyTwitter-f18lab7.iml" />
+    </modules>
+  </component>
+</project>
