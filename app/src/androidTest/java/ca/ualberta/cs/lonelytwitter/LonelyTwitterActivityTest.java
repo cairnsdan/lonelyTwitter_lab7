@@ -7,8 +7,6 @@ import android.widget.ListView;
 
 import com.robotium.solo.Solo;
 
-import junit.framework.TestCase;
-
 public class LonelyTwitterActivityTest extends ActivityInstrumentationTestCase2 {
 
     private Solo solo;
@@ -23,6 +21,8 @@ public class LonelyTwitterActivityTest extends ActivityInstrumentationTestCase2 
 
     /* Runs everytime we run the test */
     public void setUp() throws Exception {
+        super.setUp();
+        // Method does not call super method - Fix #5
         solo = new Solo(getInstrumentation(), getActivity());
     }
 
@@ -90,6 +90,7 @@ public class LonelyTwitterActivityTest extends ActivityInstrumentationTestCase2 
 
     @Override
     public void tearDown() throws Exception {
+        super.tearDown();
         solo.finishOpenedActivities();
     }
 }

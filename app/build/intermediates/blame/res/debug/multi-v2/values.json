@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dan\\Documents\\_School\\C301\\LabFeb13\\lonelyTwitter-f18lab7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Dan\\Documents\\_School\\C301\\LabFeb27\\lonelyTwitter-f18lab7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dan\\Documents\\_School\\C301\\LabFeb13\\lonelyTwitter-f18lab7\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Dan\\Documents\\_School\\C301\\LabFeb27\\lonelyTwitter-f18lab7\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "4,6,3,5,7",
                         "startColumns": "4,4,4,4,4",
